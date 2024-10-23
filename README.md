@@ -1,5 +1,5 @@
 👋 Hi, I’m @gokul-ml2ds
--  I’m a MSE Data Science gradaute @ University of Pennsylvania
+-  I’m a MSE Data Science graduate @ University of Pennsylvania
 -  I’m interested in Data Science and Deep Learning
 -  How to reach me: gokul3101@gmail.com
 

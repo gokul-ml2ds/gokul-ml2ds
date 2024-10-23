@@ -1,7 +1,7 @@
 👋 Hi, I’m @gokul-ml2ds
--  I’m a first year MSE Data Science student @ University of Pennsylvania
--  I’m currently instrested in Data Science and Deep Learning
--  How to reach me: gokuln@seas.upenn.edu
+-  I’m a MSE Data Science gradaute @ University of Pennsylvania
+-  I’m interested in Data Science and Deep Learning
+-  How to reach me: gokul3101@gmail.com
 
 <!---
 gokul-ml2ds/gokul-ml2ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
